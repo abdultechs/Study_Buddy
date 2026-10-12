@@ -2,6 +2,8 @@
 
 A production-ready, portfolio-grade Retrieval-Augmented Generation (RAG) conversational chatbot built in Python. Upload single or multiple PDF documents and ask questions in natural language, receiving strictly grounded answers with verifiable page-level citations.
 
+👉 **Looking for instructions on how to use the app? See the [Comprehensive User Guide](USER_GUIDE.md).**
+
 ---
 
 ## Architecture Overview
